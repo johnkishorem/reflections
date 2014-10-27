@@ -10,3 +10,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 	The modified files can be added to the staging area.
 	Then by comparing the diff --staged the logical change can be studied
 	Then the commit can be made accordingly
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	When new projects is started using the previous code
+	When another user also works on the code
+
+

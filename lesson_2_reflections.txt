@@ -23,3 +23,6 @@ What is the result of merging two branches together? Why do we represent it in t
 	Helps to integrate efforts of many people into one
 	Diagrams helps us to see the history
 
+What are the pros and cons of GitÎéÎ÷s automatic merging vs. always doing merges manually?
+	Automatic merging saves time than manual merging
+	Automatic merging can't solve conflicts

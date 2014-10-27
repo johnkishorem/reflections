@@ -15,4 +15,6 @@ What are some situations when branches would be helpful in keeping your history 
 	When new projects is started using the previous code
 	When another user also works on the code
 
-
+How do the diagrams help you visualize the branch structure?
+	Diagram helps to understand the branches
+	Also clears the idea of traceability
